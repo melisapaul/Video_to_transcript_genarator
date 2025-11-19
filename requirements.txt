@@ -1,0 +1,12 @@
+streamlit
+python-dotenv
+yt-dlp
+ffmpeg-python
+pydub
+
+openai-whisper
+transformers
+torch
+sentencepiece
+
+tqdm
